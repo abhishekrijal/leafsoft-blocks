@@ -32,3 +32,8 @@ Text Domain: leafsoft-blocks
         url('./assets/fonts/absolute-xero.otf') format('opentype'),
         /* Legacy iOS */
 }
+
+
+.wp-block-post-date {
+    font-family: var(--wp--preset--font-family--shizuru-font);
+}
