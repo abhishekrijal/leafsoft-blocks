@@ -1,0 +1,34 @@
+/*
+Theme Name: leafsoft blocks
+Theme URI: https://leafsoft-blocks.io/
+Author: ExpressTech
+Author URI: https://expresstech.io
+Description: leafsoft-blocks is a future looking block based theme with full site editing in mind. It comes with block patterns and ready to use full page templates. 
+Tags: one-column, custom-colors, custom-logo, editor-style, featured-images, full-site-editing, block-patterns
+Version: 1.0.3
+Requires at least: 5.8
+Tested up to: 5.9
+Requires PHP: 5.6
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: leafsoft-blocks
+*/
+
+@font-face {
+    font-family: 'Goodness Cakes';
+    src: url('./assets/fonts/goodness-cakes.ttf');
+    /* IE9 Compat Modes */
+    src:
+        /* Pretty Modern Browsers */
+        url('./assets/fonts/goodness-cakes.ttf') format('truetype'),
+        /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'Absolute Xero';
+    src: url('./assets/fonts/absolute-xero.otf') format('opentype');
+    src:
+        /* Pretty Modern Browsers */
+        url('./assets/fonts/absolute-xero.otf') format('opentype'),
+        /* Legacy iOS */
+}
