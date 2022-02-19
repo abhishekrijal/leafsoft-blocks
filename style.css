@@ -34,6 +34,16 @@ Text Domain: leafsoft-blocks
 }
 
 
+
+
 .wp-block-post-date {
     font-family: var(--wp--preset--font-family--shizuru-font);
+}
+
+@font-face {
+  font-family: 'AvenirLTStd-Book';
+  src: url('./assets/fonts/AvenirLTStd-Roman.otf'); IE9 Compat Modes
+  src: 
+       url('./assets/fonts/AvenirLTStd-Roman.otf')  format('truetype'), /* Safari, Android, iOS */
+   
 }
